@@ -1,12 +1,6 @@
-These data files correspond to the [Foundations of Applied Mathematics lab curriculum](https://foundations-of-applied-mathematics.github.io/).
-
-# Setup
-
-This repository uses **git lfs** (git large file storage) to manage files larger than 300 kilobytes.
-Install git at https://git-scm.com/ and git lfs at https://git-lfs.github.com.
-See https://github.com/git-lfs/git-lfs/wiki/Installation for more detailed installation instructions for git lfs.
-
-Instead of downloading this repository directly, use the `download_data.sh` script included in the Student-Materials repository.zw
+These data files correspond to the [Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/) lab curriculum.
+Instead of downloading or cloning this repository directly, use the `download_data.sh` script included in the Student-Materials repository.
+The download requires git, which you can download at https://git-scm.com/.
 
 # Data Index
 
