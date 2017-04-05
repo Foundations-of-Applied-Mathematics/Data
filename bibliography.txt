@@ -2,7 +2,7 @@
 Lab name
     - data file name; original source
 
-* = stored with git lfs
+* = large enough to give a git warning recommending git lfs
 
 DATA SETS WITH UNKNOWN SOURCES
 pi.npy
@@ -17,13 +17,13 @@ Object Oriented Programming
 Introduction to NumPy
     - grid.npy; https://projecteuler.net/problem=11
 Introduction to Matplotlib
-    * FARS.npy; gathered from https://www.nhtsa.gov/FARS
+    - FARS.npy; gathered from https://www.nhtsa.gov/FARS
 Exceptions and File I/O
     - TODO: should give them a txt file to test the ContentFilter class.
 Data Visualization
     - anscombe.npy; https://en.wikipedia.org/wiki/Anscombe's_quartet, originally created by: Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. JSTOR 2682899
     - MLB.npy; http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights (modified)
-    * earthquakes.npy; gathered from https://earthquake.usgs.gov/earthquakes/search/.
+    - earthquakes.npy; gathered from https://earthquake.usgs.gov/earthquakes/search/.
     - countries.npy; combined from https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal), http://www.averageheight.co/, and https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population.
     TODO: expand this data set!
 Unit Testing
@@ -33,7 +33,7 @@ Volume 1
 
 Linear Transformations
     - pi.npy; UNKNOWN (ask Tanner Christensen)
-    * horse.npy; UNKNOWN
+    - horse.npy; UNKNOWN
 Linear Systems
 The QR Decomposition
 Least Squares and Computing Eigenvalues
@@ -47,7 +47,7 @@ Image Segmentation
 The SVD and Image Compression
     - hubble_image.jpg; https://www.nasa.gov/multimedia/imagegallery/image_feature_2099.html
 Facial Recognition using Eigenfaces
-    * faces94; http://cswww.essex.ac.uk/mv/allfaces/faces94.html
+    - faces94; http://cswww.essex.ac.uk/mv/allfaces/faces94.html
     TODO: download zip and store in Data repo.
 Numerical Differentiation
     - plane.txt; generated
@@ -75,7 +75,7 @@ GMRES
 Volume 2
 
 Linked Lists
-    * english.txt; generated
+    - english.txt; generated
 Trees
     - english.txt (REPEAT); generated
 The Nearest Neighbor Problem
@@ -83,28 +83,28 @@ The Nearest Neighbor Problem
     TODO: rename postal_data.npz or MNIST.npz or something.
     TODO: reconstruct this from original MNIST data and make it a little smaller. Change the Nearest Neighbors lab so that they code up an actual k-neighbors classifier? At least show them how the data set is organized and how to view one of the images.
 Breadth First Search
-    * movieData.txt; UNKNOWN
+    - movieData.txt; UNKNOWN
     TODO: rename movie_data.txt or something. Make this a much larger piece of data! Use http://imdbpy.sourceforge.net/docs/README.sqldb.txt with https://github.com/alberanid/imdbpy.
 Markov Chains
     - yoda.txt; http://www.imsdb.com/scripts/Star-Wars-The-Empire-Strikes-Back.html, etc.
     - tswift1989.txt; http://www.azlyrics.com/t/taylorswift.html
     TODO: get a small seuss.txt or green_eggs.txt with the example text.
 Fourier Transform
-    - *tada.wav; UNKNOWN (but found it at https://www.youtube.com/watch?v=bjxf-eQWKoo)
+    - tada.wav; UNKNOWN (but found it at https://www.youtube.com/watch?v=bjxf-eQWKoo)
     - tada-conv.wav?
-    * saw.wav?
-    * pulseramp.wav?
-    * pianoclip.wav?
+    - saw.wav?
+    - pulseramp.wav?
+    - pianoclip.wav?
 Convolution and Filtering
-    * NoisySignal1.wav;
+    - NoisySignal1.wav;
     TODO: rename noisy_signal1.wav
-    * NoisySignal2.wav; UNKNOWN
+    - NoisySignal2.wav; UNKNOWN
     TODO: rename noisy_signal2.wav
-    * chopin.wav;
-    * balloon.wav;
-    * chopin_full.wav
+    - chopin.wav;
+    - balloon.wav;
+    - chopin_full.wav
 Wavelets
-    * finger.png?
+    - finger.png?
     - mandrill.png; http://sipi.usc.edu/database/
     - swanlake.jpg; UNKNOWN
     - swanlake_gray.jpg; generated from swanlake.jpg.
@@ -140,4 +140,3 @@ SQL 1
 SQL 2
 
 Volume 4
-
