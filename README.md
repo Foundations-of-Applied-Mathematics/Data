@@ -25,7 +25,8 @@ Files are listed by volume in the order that the students are expected to encoun
 | `ellipse.npy` | Least Squares and Computing Eigenvalues | generated |
 | `circle.npy` | Least Squares and Computing Eigenvalues | generated |
 | `dream.png` | Image Segmentation | |
-| `hubble_image.jpg` | The SVD and Image Compression | https://www.nasa.gov/multimedia/imagegallery/image_feature_2099.html |
+| `hubble.jpg` | The SVD and Image Compression | https://www.nasa.gov/multimedia/imagegallery/image_feature_2099.html |
+| `hubble.jpg` | The SVD and Image Compression | modification of `hubble.jpg` |
 | `faces94.zip` | Facial Recognition | http://cswww.essex.ac.uk/mv/allfaces/faces94.html |
 | `stability_data.npy` | Conditioning and Stability | generated |
 | `matrix.txt` | The Page Rank Algorithm | generated |
