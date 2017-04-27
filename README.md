@@ -11,7 +11,7 @@ Files are listed by volume in the order that the students are expected to encoun
 | :-------: | :-: | :----- |
 | `grid.npy` | Introduction to NumPy | https://projecteuler.net/problem=11 |
 | `FARS.npy` | Introduction to Matplotlib | gathered from https://www.nhtsa.gov/FARS |
-| `anscombe.py` | Data Visualization | https://en.wikipedia.org/wiki/Anscombe's_quartet, originally created by: Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. JSTOR 2682899 |
+| `anscombe.py` | Data Visualization | https://en.wikipedia.org/wiki/Anscombe's_quartet. Original citation: Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. JSTOR 2682899 |
 | `MLB.npy` | Data Visualization | http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights (modified) |
 | `earthquakes.npy` | Data Visualization | gathered from https://earthquake.usgs.gov/earthquakes/search/ |
 | `countries.npy`   | Data Visualization | combined from https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal), http://www.averageheight.co/, and https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population |
@@ -19,7 +19,7 @@ Files are listed by volume in the order that the students are expected to encoun
 ### Volume 1
 | Data File | Lab | Source |
 | :-------: | :-: | :----- |
-| `horse.npy` | Linear Transformations | |
+| `horse.npy` | Linear Transformations | generated |
 | `pi.npy` | Linear Transformations | |
 | `housing.npy` | Least Squares and Computing Eigenvalues | gathered from https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx |
 | `ellipse.npy` | Least Squares and Computing Eigenvalues | generated |
@@ -31,10 +31,10 @@ Files are listed by volume in the order that the students are expected to encoun
 | `stability_data.npy` | Conditioning and Stability | generated |
 | `matrix.txt` | The Page Rank Algorithm | generated |
 | `ncaa2013.csv` | The Page Rank Algorithm | |
+| `social_network.csv` | The Drazin Inverse | adapted from https://en.wikipedia.org/wiki/Zachary%27s_karate_club |
 
 <!-- | `plane.npy` | Differentiation | generated | -->
 <!-- | `twitter_combined.txt` |  The Page Rank Algorithm | http://snap.stanford.edu/data/index.html | -->
-<!-- | | The Drazin Inverse | | -->
 
 ### Volume 2
 | Data File | Lab | Source |
