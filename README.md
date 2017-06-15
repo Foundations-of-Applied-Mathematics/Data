@@ -23,7 +23,6 @@ Files are listed by volume in the order that the students are expected to encoun
 | Data File | Lab | Source |
 | :-------: | :-: | :----- |
 | `horse.npy` | Linear Transformations | generated |
-| `pi.npy` | Linear Transformations | |
 | `housing.npy` | Least Squares and Computing Eigenvalues | gathered from https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx |
 | `ellipse.npy` | Least Squares and Computing Eigenvalues | generated |
 | `circle.npy` | Least Squares and Computing Eigenvalues | generated |
