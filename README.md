@@ -65,4 +65,8 @@ Files are listed by volume in the order that the students are expected to encoun
 
 ### Volume 3 Forthcoming
 
+| Data File | Lab | Source |
+| :-------: | :-: | :----- |
+| `nyc_traffic.json` | Web Technologies | Modified from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, gathered August 2017 |
+
 ### Volume 4 Forthcoming
