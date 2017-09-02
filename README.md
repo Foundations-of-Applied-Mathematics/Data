@@ -30,12 +30,12 @@ Files are listed by volume in the order that the students are expected to encoun
 | `hubble.jpg` | The SVD and Image Compression | https://www.nasa.gov/multimedia/imagegallery/image_feature_2099.html |
 | `hubble.jpg` | The SVD and Image Compression | modification of `hubble.jpg` |
 | `faces94.zip` | Facial Recognition | http://cswww.essex.ac.uk/mv/allfaces/faces94.html |
+| `plane.npy` | Differentiation | generated |
 | `stability_data.npy` | Conditioning and Stability | generated |
 | `matrix.txt` | The Page Rank Algorithm | generated |
 | `ncaa2013.csv` | The Page Rank Algorithm | |
 | `social_network.csv` | The Drazin Inverse | adapted from https://en.wikipedia.org/wiki/Zachary%27s_karate_club |
 
-<!-- | `plane.npy` | Differentiation | generated | -->
 <!-- | `twitter_combined.txt` |  The Page Rank Algorithm | http://snap.stanford.edu/data/index.html | -->
 
 ### Volume 2
@@ -47,10 +47,14 @@ Files are listed by volume in the order that the students are expected to encoun
 | `yoda.txt` | Markov Chains | http://www.imsdb.com/scripts/Star-Wars-The-Empire-Strikes-Back.html, etc. |
 | `tswift1989.txt` | Markov Chains | http://www.azlyrics.com/t/taylorswift.html |
 | `tada.wav` | The Discrete Fourier Transform | |
+| `mystery_sound.wav` | The Discrete Fourier Transform | generated |
 | `NoisySignal1.wav` | Filtering and Convolution | |
 | `NoisySignal2.wav` | Filtering and Convolution | |
-| `balloon.wav` | Filtering and Convolution | |
+| `AEA.wav` | Filtering and Convolution | generated |
+| `EAE.wav` | Filtering and Convolution | generated |
+| `balloon.wav` | Filtering and Convolution | recorded at BYU |
 | `chopin.wav` | Filtering and Convolution | |
+| `vuvuzela.wav` | Filtering and Convolution | |
 | `mandrill.png` | Wavelets | http://sipi.usc.edu/database/ |
 | `swanlake.jpg` | Wavelets | |
 | `swanlake_gray.jpg` | Wavelets | modification of `swanlake.jpg` |
@@ -63,7 +67,7 @@ Files are listed by volume in the order that the students are expected to encoun
 | `simdata.txt` | Interior Point Methods for Linear Optimization | generated |
 | `portfolio.txt` | Interior Point Methods for Quadratic Optimization | |
 
-### Volume 3 Forthcoming
+### Volume 3
 
 | Data File | Lab | Source |
 | :-------: | :-: | :----- |
