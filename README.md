@@ -55,6 +55,7 @@ Files are listed by volume in the order that the students are expected to encoun
 | `balloon.wav` | Filtering and Convolution | recorded at BYU |
 | `chopin.wav` | Filtering and Convolution | |
 | `vuvuzela.wav` | Filtering and Convolution | |
+| `license_plate.png` | Filtering and Convolution | https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Georgia_(U.S._state) |
 | `mandrill.png` | Wavelets | http://sipi.usc.edu/database/ |
 | `swanlake.jpg` | Wavelets | |
 | `swanlake_gray.jpg` | Wavelets | modification of `swanlake.jpg` |
@@ -71,6 +72,8 @@ Files are listed by volume in the order that the students are expected to encoun
 
 | Data File | Lab | Source |
 | :-------: | :-: | :----- |
+| `Shell1.zip` | Unix Shell 1 | generated |
+| `Shell2.zip` | Unix Shell 2 | generated |
 | `nyc_traffic.json` | Web Technologies | Modified from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, gathered August 2017 |
 
 ### Volume 4 Forthcoming
