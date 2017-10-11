@@ -75,5 +75,8 @@ Files are listed by volume in the order that the students are expected to encoun
 | `Shell1.zip` | Unix Shell 1 | generated |
 | `Shell2.zip` | Unix Shell 2 | generated |
 | `nyc_traffic.json` | Web Technologies | Modified from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, gathered August 2017 |
+<!-- TODO: Web Scraping 1 HTMLs -->
+| `crime_data.csv` | Pandas 1 | http://www.disastercenter.com/crime/uscrime.htm |
+<!-- read with pd.read_csv("crime_data.csv", index_col="Year") -->
 
 ### Volume 4 Forthcoming
