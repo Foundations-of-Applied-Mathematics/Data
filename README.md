@@ -14,6 +14,9 @@ Files are listed by volume in the order that the students are expected to encoun
 | `hello_world.txt` | Exceptions and File I/O | written by hand |
 | `cf_example1.txt` | Exceptions and File I/O | written by hand |
 | `cf_example2.txt` | Exceptions and File I/O | written by hand |
+| `triangle.txt` | Profiling | https://projecteuler.net/problem=18 |
+| `triangle_large.txt` | Profiling | https://projecteuler.net/problem=67 |
+| `names.txt` | https://projecteuler.net/problem=22 |
 | `anscombe.py` | Data Visualization | https://en.wikipedia.org/wiki/Anscombe's_quartet. Original citation: Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. JSTOR 2682899 |
 | `MLB.npy` | Data Visualization | http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights (modified) |
 | `earthquakes.npy` | Data Visualization | gathered from https://earthquake.usgs.gov/earthquakes/search/ |
