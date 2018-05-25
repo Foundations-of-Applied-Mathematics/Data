@@ -1,5 +1,8 @@
 # get_ncaa_data.py
-"""Get win/lose NCAA men's basketball data from www.sports-reference.com."""
+"""Get win/lose NCAA men's basketball data from www.sports-reference.com.
+
+usage: python get_ncaa_data.py [-h] SEASON
+"""
 
 import time
 import datetime
@@ -55,7 +58,10 @@ def main(season=None):
         df = pd.DataFrame(games, columns=["Winner", "Loser"])
         df.to_csv("ncaa{}.csv".format(season), index=False)
 
+# Command line arguments ======================================================
+
 if __name__ == '__main__':
-    import sys
-    if len(sys.argv) == 2:
-        main(sys.argv[-1])
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("season", help="the basketball season to scrape")
+    main(parser.parse_args().season)

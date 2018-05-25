@@ -35,11 +35,9 @@ Files are listed by volume in the order that the students are expected to encoun
 | `faces94.zip` | Facial Recognition | http://cswww.essex.ac.uk/mv/allfaces/faces94.html |
 | `plane.npy` | Differentiation | generated |
 | `stability_data.npy` | Conditioning and Stability | generated |
-| `matrix.txt` | The Page Rank Algorithm | generated |
-| `ncaa2013.csv` | The Page Rank Algorithm | |
+| `web_stanford.txt` | The PageRank Algorithm | Subset of `web-Stanford.txt` from http://snap.stanford.edu/data/web-Stanford.html |
+| `ncaa201*.csv` | The PageRank Algorithm | Scraped from https://www.sports-reference.com |
 | `social_network.csv` | The Drazin Inverse | adapted from https://en.wikipedia.org/wiki/Zachary%27s_karate_club |
-
-<!-- | `twitter_combined.txt` |  The Page Rank Algorithm | http://snap.stanford.edu/data/index.html | -->
 
 ### Volume 2
 | Data File | Lab | Source |
@@ -78,8 +76,7 @@ Files are listed by volume in the order that the students are expected to encoun
 | `Shell1.zip` | Unix Shell 1 | generated |
 | `Shell2.zip` | Unix Shell 2 | generated |
 | `nyc_traffic.json` | Web Technologies | Modified from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, gathered August 2017 |
-<!-- TODO: Web Scraping 1 HTMLs -->
 | `crime_data.csv` | Pandas 1 | http://www.disastercenter.com/crime/uscrime.htm |
-<!-- read with pd.read_csv("crime_data.csv", index_col="Year") -->
+<!-- TODO: Web Scraping 1 HTMLs -->
 
 ### Volume 4 Forthcoming
