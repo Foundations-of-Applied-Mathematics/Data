@@ -37,6 +37,7 @@ Files are listed by volume in the order that the students are expected to encoun
 | `stability_data.npy` | Conditioning and Stability | generated |
 | `web_stanford.txt` | The PageRank Algorithm | Subset of `web-Stanford.txt` from http://snap.stanford.edu/data/web-Stanford.html |
 | `ncaa201*.csv` | The PageRank Algorithm | Scraped from https://www.sports-reference.com |
+| `top250movies.txt` | The PageRank Algorithm | Subset of `movie_data.txt`, obtained using `imdbpy` |
 | `social_network.csv` | The Drazin Inverse | adapted from https://en.wikipedia.org/wiki/Zachary%27s_karate_club |
 
 ### Volume 2
