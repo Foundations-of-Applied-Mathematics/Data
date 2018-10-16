@@ -1,0 +1,331 @@
+Activity,Year,Period,Estimate,Standard Error
+Total Hours,2007,Annual,24.00,0.000
+Total Hours,2008,Annual,24.00,0.000
+Total Hours,2009,Annual,24.00,0.000
+Total Hours,2010,Annual,24.00,0.000
+Total Hours,2011,Annual,24.00,0.000
+Total Hours,2012,Annual,24.00,0.000
+Total Hours,2013,Annual,24.00,0.000
+Total Hours,2014,Annual,24.00,0.000
+Total Hours,2015,Annual,24.00,0.000
+Total Hours,2016,Annual,24.00,0.000
+Total Hours,2017,Annual,24.00,0.000
+Personal Care,2007,Annual,9.33,0.026
+Personal Care,2008,Annual,9.39,0.025
+Personal Care,2009,Annual,9.45,0.023
+Personal Care,2010,Annual,9.47,0.027
+Personal Care,2011,Annual,9.49,0.026
+Personal Care,2012,Annual,9.49,0.026
+Personal Care,2013,Annual,9.54,0.027
+Personal Care,2014,Annual,9.58,0.027
+Personal Care,2015,Annual,9.64,0.028
+Personal Care,2016,Annual,9.58,0.028
+Personal Care,2017,Annual,9.59,0.025
+Sleeping,2007,Annual,8.57,0.024
+Sleeping,2008,Annual,8.60,0.023
+Sleeping,2009,Annual,8.67,0.023
+Sleeping,2010,Annual,8.67,0.024
+Sleeping,2011,Annual,8.71,0.026
+Sleeping,2012,Annual,8.73,0.026
+Sleeping,2013,Annual,8.74,0.027
+Sleeping,,Annual,8.80,0.025
+Sleeping,2015,Annual,8.83,0.027
+Sleeping,2016,Annual,8.79,0.028
+Sleeping,2017,Annual,8.80,0.027
+Eating and Drinking,2007,Annual,1.24,0.010
+Eating and Drinking,2008,Annual,1.23,0.011
+Eating and Drinking,2009,Annual,1.22,0.011
+Eating and Drinking,2010,Annual,1.25,0.012
+Eating and Drinking,2011,Annual,1.24,0.011
+Eating and Drinking,2012,Annual,1.25,0.012
+Eating and Drinking,2013,Annual,1.23,0.012
+Eating and Drinking,2014,Annual,1.17,0.010
+Eating and Drinking,2015,Annual,1.18,0.011
+Eating and Drinking,2016,Annual,1.17,0.012
+Eating and Drinking,2017,Annual,1.18,0.013
+Household Activities,2007,Annual,1.84,0.023
+Household Activities,2008,Annual,1.73,0.024
+Household Activities,2009,Annual,1.80,0.024
+Household Activities,2010,Annual,1.79,0.024
+Household Activities,2011,Annual,1.77,0.021
+Household Activities,2012,Annual,1.74,0.023
+Household Activities,2013,Annual,1.78,0.025
+Household Activities,2014,Annual,1.77,0.023
+Household Activities,2015,Annual,1.84,0.025
+Household Activities,2016,Annual,1.82,0.026
+Household Activities,2017,Annual,1.81,0.030
+Housework,2007,Annual,0.64,0.015
+Housework,2008,Annual,0.58,0.013
+Housework,2009,Annual,0.60,0.014
+Housework,2010,Annual,0.57,0.013
+Housework,2011,Annual,0.58,0.012
+Housework,2012,Annual,0.60,0.014
+Housework,2013,Annual,0.57,0.014
+Housework,2014,Annual,0.55,0.013
+Housework,2015,Annual,0.57,0.014
+Housework,2016,Annual,0.57,0.015
+Housework,2017,Annual,0.55,0.015
+Food Prep and Cleanup,2007,Annual,0.52,0.009
+Food Prep and Cleanup,2008,Annual,0.52,0.009
+Food Prep and Cleanup,2009,Annual,0.54,0.008
+Food Prep and Cleanup,2010,Annual,0.56,0.009
+Food Prep and Cleanup,2011,Annual,0.56,0.010
+Food Prep and Cleanup,2012,Annual,0.53,0.009
+Food Prep and Cleanup,2013,Annual,0.57,0.009
+Food Prep and Cleanup,2014,Annual,0.59,0.009
+Food Prep and Cleanup,2015,Annual,0.60,0.011
+Food Prep and Cleanup,2016,Annual,0.59,0.010
+Food Prep and Cleanup,2017,Annual,0.60,0.012
+Lawn and Garden Care,2007,Annual,0.21,0.009
+Lawn and Garden Care,2008,Annual,0.19,0.009
+Lawn and Garden Care,2009,Annual,0.20,0.010
+Lawn and Garden Care,2010,Annual,0.21,0.010
+Lawn and Garden Care,2011,Annual,0.19,0.008
+Lawn and Garden Care,2012,Annual,0.18,0.007
+Lawn and Garden Care,2013,Annual,0.18,0.009
+Lawn and Garden Care,2014,Annual,0.19,0.008
+Lawn and Garden Care,2015,Annual,0.20,0.010
+Lawn and Garden Care,2016,Annual,0.19,0.008
+Lawn and Garden Care,2017,Annual,0.18,0.008
+Household Management,2007,Annual,0.14,0.007
+Household Management,2008,Annual,0.13,0.006
+Household Management,2009,Annual,0.13,0.006
+Household Management,2010,Annual,0.12,0.005
+Household Management,2011,Annual,0.12,0.006
+Household Management,2012,Annual,0.13,0.006
+Household Management,2013,Annual,0.13,0.007
+Household Management,2014,Annual,0.12,0.005
+Household Management,2015,Annual,0.13,0.006
+Household Management,2016,Annual,0.14,0.007
+Household Management,2017,Annual,0.13,0.006
+Purchasing Goods and Services,2007,Annual,0.78,0.017
+Purchasing Goods and Services,2008,Annual,0.77,0.016
+Purchasing Goods and Services,2009,Annual,0.76,0.014
+Purchasing Goods and Services,2010,Annual,0.75,0.013
+Purchasing Goods and Services,2011,Annual,0.72,0.012
+Purchasing Goods and Services,2012,Annual,0.72,0.015
+Purchasing Goods and Services,2013,Annual,0.75,0.015
+Purchasing Goods and Services,2014,Annual,0.74,0.016
+Purchasing Goods and Services,2015,Annual,0.75,0.016
+Purchasing Goods and Services,2016,Annual,0.76,0.015
+Purchasing Goods and Services,2017,Annual,0.72,0.016
+Consumer Goods Purchases,2007,Annual,0.39,0.010
+Consumer Goods Purchases,2008,Annual,0.38,0.009
+Consumer Goods Purchases,2009,Annual,0.38,0.008
+Consumer Goods Purchases,2010,Annual,0.37,0.008
+Consumer Goods Purchases,2011,Annual,0.37,0.008
+Consumer Goods Purchases,2012,Annual,0.35,0.008
+Consumer Goods Purchases,2013,Annual,0.37,0.009
+Consumer Goods Purchases,2014,Annual,0.36,0.009
+Consumer Goods Purchases,2015,Annual,0.36,0.009
+Consumer Goods Purchases,2016,Annual,0.36,0.008
+Consumer Goods Purchases,2017,Annual,0.35,0.011
+Professional and Personal Care Services,2007,Annual,0.09,0.006
+Professional and Personal Care Services,2008,Annual,0.08,0.005
+Professional and Personal Care Services,2009,Annual,0.09,0.005
+Professional and Personal Care Services,2010,Annual,0.08,0.005
+Professional and Personal Care Services,2011,Annual,0.07,0.004
+Professional and Personal Care Services,2012,Annual,0.08,0.005
+Professional and Personal Care Services,2013,Annual,0.08,0.005
+Professional and Personal Care Services,2014,Annual,0.09,0.005
+Professional and Personal Care Services,2015,Annual,0.08,0.005
+Professional and Personal Care Services,2016,Annual,0.09,0.005
+Professional and Personal Care Services,2017,Annual,0.08,0.005
+Helping Household Members,2007,Annual,0.53,0.011
+Helping Household Members,2008,Annual,0.53,0.012
+Helping Household Members,2009,Annual,0.54,0.013
+Helping Household Members,2010,Annual,0.51,0.012
+Helping Household Members,2011,Annual,0.51,0.012
+Helping Household Members,2012,Annual,0.51,0.013
+Helping Household Members,2013,Annual,0.53,0.012
+Helping Household Members,2014,Annual,0.54,0.014
+Helping Household Members,2015,Annual,0.51,0.012
+Helping Household Members,2016,Annual,0.52,0.012
+Helping Household Members,2017,Annual,0.52,0.014
+Caring for Children,2007,Annual,0.42,0.009
+Caring for Children,2008,Annual,0.42,0.010
+Caring for Children,2009,Annual,0.43,0.012
+Caring for Children,2010,Annual,0.40,0.010
+Caring for Children,2011,Annual,0.39,0.009
+Caring for Children,2012,Annual,0.40,0.012
+Caring for Children,2013,Annual,0.41,0.011
+Caring for Children,2014,Annual,0.41,0.011
+Caring for Children,2015,Annual,0.40,0.010
+Caring for Children,2016,Annual,0.40,0.009
+Caring for Children,2017,Annual,0.40,0.013
+Helping Non-household Members,2007,Annual,0.20,0.011
+Helping Non-household Members,2008,Annual,0.23,0.010
+Helping Non-household Members,2009,Annual,0.21,0.009
+Helping Non-household Members,2010,Annual,0.21,0.010
+Helping Non-household Members,2011,Annual,0.21,0.011
+Helping Non-household Members,2012,Annual,0.18,0.008
+Helping Non-household Members,2013,Annual,0.19,0.009
+Helping Non-household Members,2014,Annual,0.18,0.009
+Helping Non-household Members,2015,Annual,0.19,0.009
+Helping Non-household Members,2016,Annual,0.21,0.011
+Helping Non-household Members,2017,Annual,0.18,0.009
+Caring for Non-household Adults,2007,Annual,0.07,0.006
+Caring for Non-household Adults,2008,Annual,0.07,0.006
+Caring for Non-household Adults,2009,Annual,0.07,0.005
+Caring for Non-household Adults,2010,Annual,0.08,0.007
+Caring for Non-household Adults,2011,Annual,0.07,0.006
+Caring for Non-household Adults,2012,Annual,0.06,0.004
+Caring for Non-household Adults,2013,Annual,0.06,0.005
+Caring for Non-household Adults,2014,Annual,0.06,0.005
+Caring for Non-household Adults,2015,Annual,0.07,0.006
+Caring for Non-household Adults,2016,Annual,0.07,0.007
+Caring for Non-household Adults,2017,Annual,0.07,0.006
+Working and Work-Related Activities,2007,Annual,3.81,0.050
+Working and Work-Related Activities,2008,Annual,3.73,0.051
+Working and Work-Related Activities,2009,Annual,3.53,0.047
+Working and Work-Related Activities,2010,Annual,3.50,0.045
+Working and Work-Related Activities,2011,Annual,3.57,0.048
+Working and Work-Related Activities,2012,Annual,3.53,0.053
+Working and Work-Related Activities,2013,Annual,3.46,0.049
+Working and Work-Related Activities,2014,Annual,3.59,0.052
+Working and Work-Related Activities,2015,Annual,3.53,0.050
+Working and Work-Related Activities,2016,Annual,3.61,0.048
+Working and Work-Related Activities,2017,Annual,3.59,0.059
+Working,2007,Annual,3.47,0.048
+Working,2008,Annual,3.38,0.048
+Working,2009,Annual,3.18,0.043
+Working,2010,Annual,3.14,0.043
+Working,2011,Annual,3.20,0.044
+Working,2012,Annual,3.19,0.049
+Working,2013,Annual,3.14,0.045
+Working,2014,Annual,3.25,0.048
+Working,2015,Annual,3.19,0.047
+Working,2016,Annual,3.28,0.045
+Working,2017,Annual,3.23,0.055
+Educational Activities,2007,Annual,0.43,0.019
+Educational Activities,2008,Annual,0.47,0.023
+Educational Activities,2009,Annual,0.46,0.019
+Educational Activities,2010,Annual,0.47,0.019
+Educational Activities,2011,Annual,0.47,0.021
+Educational Activities,2012,Annual,0.50,0.025
+Educational Activities,2013,Annual,0.48,0.030
+Educational Activities,2014,Annual,0.42,0.020
+Educational Activities,2015,Annual,0.46,0.025
+Educational Activities,2016,Annual,0.49,0.024
+Educational Activities,2017,Annual,0.48,0.026
+Attending Class,2007,Annual,0.26,0.013
+Attending Class,2008,Annual,0.27,0.013
+Attending Class,2009,Annual,0.26,0.012
+Attending Class,2010,Annual,0.28,0.014
+Attending Class,2011,Annual,0.28,0.013
+Attending Class,2012,Annual,0.28,0.015
+Attending Class,2013,Annual,0.26,0.017
+Attending Class,2014,Annual,0.23,0.014
+Attending Class,2015,Annual,0.25,0.014
+Attending Class,2016,Annual,0.27,0.014
+Attending Class,2017,Annual,0.26,0.016
+Homework and Research,2007,Annual,0.14,0.012
+Homework and Research,2008,Annual,0.16,0.013
+Homework and Research,2009,Annual,0.16,0.010
+Homework and Research,2010,Annual,0.16,0.009
+Homework and Research,2011,Annual,0.15,0.011
+Homework and Research,2012,Annual,0.17,0.010
+Homework and Research,2013,Annual,0.18,0.016
+Homework and Research,2014,Annual,0.15,0.012
+Homework and Research,2015,Annual,0.17,0.013
+Homework and Research,2016,Annual,0.18,0.012
+Homework and Research,2017,Annual,0.18,0.014
+Organizational Civic and Religious Activities,2007,Annual,0.35,0.013
+Organizational Civic and Religious Activities,2008,Annual,0.33,0.012
+Organizational Civic and Religious Activities,2009,Annual,0.34,0.011
+Organizational Civic and Religious Activities,2010,Annual,0.35,0.014
+Organizational Civic and Religious Activities,2011,Annual,0.35,0.012
+Organizational Civic and Religious Activities,2012,Annual,0.32,0.010
+Organizational Civic and Religious Activities,2013,Annual,0.32,0.012
+Organizational Civic and Religious Activities,2014,Annual,0.32,0.011
+Organizational Civic and Religious Activities,2015,Annual,0.33,0.011
+Organizational Civic and Religious Activities,2016,Annual,0.32,0.013
+Organizational Civic and Religious Activities,2017,Annual,0.33,0.014
+Religious and Spiritual Activities,2007,Annual,0.15,0.006
+Religious and Spiritual Activities,2008,Annual,0.14,0.005
+Religious and Spiritual Activities,2009,Annual,0.15,0.005
+Religious and Spiritual Activities,2010,Annual,0.16,0.007
+Religious and Spiritual Activities,2011,Annual,0.15,0.006
+Religious and Spiritual Activities,2012,Annual,0.15,0.005
+Religious and Spiritual Activities,2013,Annual,0.14,0.006
+Religious and Spiritual Activities,2014,Annual,0.14,0.006
+Religious and Spiritual Activities,2015,Annual,0.15,0.005
+Religious and Spiritual Activities,2016,Annual,0.16,0.009
+Religious and Spiritual Activities,2017,Annual,0.13,0.006
+Volunteering,2007,Annual,0.16,0.009
+Volunteering,2008,Annual,0.15,0.009
+Volunteering,2009,Annual,0.15,0.008
+Volunteering,2010,Annual,0.15,0.010
+Volunteering,2011,Annual,0.15,0.009
+Volunteering,2012,Annual,0.13,0.007
+Volunteering,2013,Annual,0.14,0.009
+Volunteering,2014,Annual,0.14,0.008
+Volunteering,2015,Annual,0.15,0.010
+Volunteering,2016,Annual,0.13,0.009
+Volunteering,2017,Annual,0.15,0.011
+Leisure and Sports,2007,Annual,5.11,0.037
+Leisure and Sports,2008,Annual,5.18,0.040
+Leisure and Sports,2009,Annual,5.25,0.040
+Leisure and Sports,2010,Annual,5.18,0.043
+Leisure and Sports,2011,Annual,5.21,0.038
+Leisure and Sports,2012,Annual,5.37,0.038
+Leisure and Sports,2013,Annual,5.26,0.040
+Leisure and Sports,2014,Annual,5.30,0.048
+Leisure and Sports,2015,Annual,5.21,0.040
+Leisure and Sports,2016,Annual,5.13,0.040
+Leisure and Sports,2017,Annual,5.24,0.046
+Socializing and Communicating,2007,Annual,0.73,0.015
+Socializing and Communicating,2008,Annual,0.71,0.014
+Socializing and Communicating,2009,Annual,0.70,0.014
+Socializing and Communicating,2010,Annual,0.70,0.016
+Socializing and Communicating,2011,Annual,0.70,0.017
+Socializing and Communicating,2012,Annual,0.74,0.018
+Socializing and Communicating,2013,Annual,0.72,0.017
+Socializing and Communicating,2014,Annual,0.71,0.018
+Socializing and Communicating,2015,Annual,0.68,0.016
+Socializing and Communicating,2016,Annual,0.65,0.016
+Socializing and Communicating,2017,Annual,0.65,0.020
+Watching TV,2007,Annual,2.62,0.029
+Watching TV,2008,Annual,2.77,0.032
+Watching TV,2009,Annual,2.82,0.033
+Watching TV,2010,Annual,2.73,0.031
+Watching TV,2011,Annual,2.75,0.029
+Watching TV,2012,Annual,2.83,0.030
+Watching TV,2013,Annual,2.77,0.032
+Watching TV,2014,Annual,2.82,0.041
+Watching TV,2015,Annual,2.78,0.034
+Watching TV,2016,Annual,2.73,0.035
+Watching TV,2017,Annual,2.77,0.033
+Participating in Sports Exercise and Rec Activity,2007,Annual,0.32,0.010
+Participating in Sports Exercise and Rec Activity,2008,Annual,0.30,0.011
+Participating in Sports Exercise and Rec Activity,2009,Annual,0.31,0.010
+Participating in Sports Exercise and Rec Activity,2010,Annual,0.31,0.010
+Participating in Sports Exercise and Rec Activity,2011,Annual,0.30,0.009
+Participating in Sports Exercise and Rec Activity,2012,Annual,0.32,0.011
+Participating in Sports Exercise and Rec Activity,2013,Annual,0.30,0.012
+Participating in Sports Exercise and Rec Activity,2014,Annual,0.29,0.010
+Participating in Sports Exercise and Rec Activity,2015,Annual,0.31,0.010
+Participating in Sports Exercise and Rec Activity,2016,Annual,0.32,0.012
+Participating in Sports Exercise and Rec Activity,2017,Annual,0.29,0.011
+Telephone calls Mail and E-Mail,2007,Annual,0.19,0.006
+Telephone calls Mail and E-Mail,2008,Annual,0.21,0.007
+Telephone calls Mail and E-Mail,2009,Annual,0.20,0.006
+Telephone calls Mail and E-Mail,2010,Annual,0.18,0.006
+Telephone calls Mail and E-Mail,2011,Annual,0.16,0.005
+Telephone calls Mail and E-Mail,2012,Annual,0.16,0.007
+Telephone calls Mail and E-Mail,2013,Annual,0.15,0.006
+Telephone calls Mail and E-Mail,2014,Annual,0.14,0.006
+Telephone calls Mail and E-Mail,2015,Annual,0.16,0.006
+Telephone calls Mail and E-Mail,2016,Annual,0.16,0.007
+Telephone calls Mail and E-Mail,2017,Annual,0.15,0.006
+Other,2007,Annual,0.20,0.011
+Other,2008,Annual,0.20,0.009
+Other,2009,Annual,0.24,0.009
+Other,2010,Annual,0.35,0.012
+Other,2011,Annual,0.29,0.014
+Other,2012,Annual,0.24,0.011
+Other,2013,Annual,0.31,0.016
+Other,2014,Annual,0.23,0.011
+Other,2015,Annual,0.19,0.010
+Other,2016,Annual,0.22,0.014
+Other,2017,Annual,0.20,0.009
