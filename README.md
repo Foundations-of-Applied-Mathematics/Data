@@ -41,16 +41,19 @@ Below the data files are listed by volume (in the order given by each table of c
 | Introduction to Beautiful Soup | [WebScraping1/san_diego_weather.html](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//WebScraping1/san_diego_weather.html) |  |
 | Introduction to Beautiful Soup | [WebScraping1/large_banks_index.html](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//WebScraping1/large_banks_index.html) |  |
 | Introduction to Beautiful Soup | [WebScraping1/large_banks_data.html](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//WebScraping1/large_banks_data.html) |  |
-| Pandas 1: Introduction | [Pandas1/crime_data.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas1/crime_data.csv) |  |
-| Pandas 1: Introduction | [Pandas1/titanic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas1/titanic.csv) |  |
-| Pandas 2: Plotting | [Pandas2/crime_data.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas2/crime_data.csv) |  |
-| Pandas 2: Plotting | [Pandas2/sat_act.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas2/sat_act.csv) |  |
-| Pandas 3: Grouping | [Pandas3/mammal_sleep.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas3/mammal_sleep.csv) |  |
-| Pandas 3: Grouping | [Pandas3/titanic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas3/titanic.csv) |  |
-| Pandas 4: Time Series | [Pandas4/DJIA.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/DJIA.csv) |  |
-| Pandas 4: Time Series | [Pandas4/finances.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/finances.csv) |  |
-| Pandas 4: Time Series | [Pandas4/paychecks.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/paychecks.csv) |  |
-| Pandas 4: Time Series | [Pandas4/website_traffic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/website_traffic.csv) |  |
+| Pandas 1: Introduction | Data Science Essentials | [Pandas1/crime_data.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas1/crime_data.csv) |  |
+| Pandas 1: Introduction | [Pandas1/final_accidents2.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_accidents2.pickle) | Data Science Essentials |  |
+| Pandas 1: Introduction | [Pandas1/final_drivers.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_drivers.pickle) | Data Science Essentials |  |
+| Pandas 2: Plotting |  [Pandas2/final_accidents2.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas2/final_accidents2.pickle) | Data Science Essentials |  |
+| Pandas 2: Plotting | [Pandas2/final_drivers.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_drivers.pickle) | Data Science Essentials |  |
+| Pandas 2: Plotting | [Pandas2/new_york_crime_clean.csv](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas2/new_york_crime_clean.csv) | Data Science Essentials |  |
+| Pandas 3: Grouping | [Pandas3/Ohio_1999.csv](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas3/Ohio_1999.csv) | Data Science Essentials |  |
+| Pandas 3: Grouping | [Pandas3/time_usage.txt](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas3/time_usage.txt) | Data Science Essentials |  |
+| Pandas 4: Time Series | [Pandas4/DJIA.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/DJIA.csv) | Data Science Essentials |  |
+| Pandas 4: Time Series | [Pandas4/finances.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/finances.csv) | Data Science Essentials |  |
+| Pandas 4: Time Series | [Pandas4/paychecks.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/paychecks.csv) |  Data Science Essentials |  |
+| Pandas 4: Time Series | [Pandas4/website_traffic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/website_traffic.csv) | Data Science Essentials |  |
+| Pandas 5: GeoPandas | [Pandas5/airports.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas5/airports.csv) | Data Science Essentials |  |
 
 [Volume 1](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/Volume1.pdf)
 
@@ -169,15 +172,18 @@ Below the data files are listed by volume (in the order given by each table of c
 | [PageRank/ncaa2017.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//PageRank/ncaa2017.csv) | The PageRank Algorithm | Volume 1 | Scraped from https://www.sports-reference.com |
 | [PageRank/top250movies.txt](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//PageRank/top250movies.txt) | The PageRank Algorithm | Volume 1 | Subset of `movie_data.txt`, scraped with `imdbpy` (https://imdbpy.sourceforge.io/) |
 | [Pandas1/crime_data.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas1/crime_data.csv) | Pandas 1: Introduction | Data Science Essentials |  |
-| [Pandas1/titanic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas1/titanic.csv) | Pandas 1: Introduction | Data Science Essentials |  |
-| [Pandas2/crime_data.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas2/crime_data.csv) | Pandas 2: Plotting | Data Science Essentials |  |
-| [Pandas2/sat_act.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas2/sat_act.csv) | Pandas 2: Plotting | Data Science Essentials |  |
-| [Pandas3/mammal_sleep.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas3/mammal_sleep.csv) | Pandas 3: Grouping | Data Science Essentials |  |
-| [Pandas3/titanic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas3/titanic.csv) | Pandas 3: Grouping | Data Science Essentials |  |
+| [Pandas1/final_accidents2.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_accidents2.pickle) | Pandas 1: Introduction | Data Science Essentials |  |
+| [Pandas1/final_drivers.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_drivers.pickle) | Pandas 1: Introduction | Data Science Essentials |  |
+| [Pandas2/final_accidents2.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas2/final_accidents2.pickle) | Pandas 2: Plotting | Data Science Essentials |  |
+| [Pandas2/final_drivers.pickle](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas1/final_drivers.pickle) | Pandas 2: Plotting | Data Science Essentials |  |
+| [Pandas2/new_york_crime_clean.csv](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas2/new_york_crime_clean.csv) | Pandas 2: Plotting | Data Science Essentials |  |
+| [Pandas3/Ohio_1999.csv](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas3/Ohio_1999.csv) | Pandas 3: Grouping | Data Science Essentials |  |
+| [Pandas3/time_usage.txt](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Pandas3/time_usage.txt) | Pandas 3: Grouping | Data Science Essentials |  |
 | [Pandas4/DJIA.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/DJIA.csv) | Pandas 4: Time Series | Data Science Essentials |  |
 | [Pandas4/finances.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/finances.csv) | Pandas 4: Time Series | Data Science Essentials |  |
 | [Pandas4/paychecks.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/paychecks.csv) | Pandas 4: Time Series | Data Science Essentials |  |
 | [Pandas4/website_traffic.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas4/website_traffic.csv) | Pandas 4: Time Series | Data Science Essentials |  |
+| [Pandas5/airports.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas5/airports.csv) | Pandas 5: GeoPandas | Data Science Essentials |  |
 | [PolynomialInterpolation/airdata.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//PolynomialInterpolation/airdata.npy) | Polynomial Interpolation | Volume 2 |  |
 | [Profiling/names.txt](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Profiling/names.txt) | Profiling | Python Essentials | https://projecteuler.net/problem=22 |
 | [Profiling/triangle.txt](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Profiling/triangle.txt) | Profiling | Python Essentials | https://projecteuler.net/problem=18 |
