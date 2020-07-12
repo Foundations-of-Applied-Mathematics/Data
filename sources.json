@@ -100,7 +100,8 @@
 	"Animation/orbits.npz": "",
 	"Animation/vibration.npz.gz": "",
 	"AnisotropicDiffusion/balloon.jpg": "",
-	"AnisotropicDiffusion/balloons_color.jpg": "",	
+	"AnisotropicDiffusion/balloons_color.jpg": "",
+	"SIR/new_york_cases": "https://github.com/nytimes/covid-19-data",
 	"OldData/tswift1989.txt": "https://genius.com/Taylor-swift-1989-tracklist-album-art-annotated",
     "OldData/population.npy": "",    
 }
