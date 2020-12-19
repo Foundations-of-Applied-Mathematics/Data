@@ -1,0 +1,9 @@
+Name,Age,name,DOB,Marital_Status,Height,Weight,Marriage_Len,Spouse
+John Doe,30,john,01/01/2010,Divorcee,72,175,5,NA
+Jane Doe,29,jane,12/02/1990,Divorced,5.5,125,5,John Doe
+Jill smith,40,,03/04/1980,married,64,120,10,Jack Smith
+Jill smith,40,jill,03/04/1980,married,64,120,,jack smith
+jack smith,100,jack,4/4/1980,marrieed,1.8,220,10,jill smith
+Jenny Smith,5,,05/05/2015,,105,40,,NA
+JAmes Smith,2,,20/06/2018,single,27,25,Not Applicable,
+Rover,2,,05/05/2018,,36,50,,
