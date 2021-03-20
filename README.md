@@ -56,11 +56,11 @@ Below the data files are listed by volume (in the order given by each table of c
 | Pandas 5: GeoPandas | [Pandas5/airports.csv](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//Pandas5/airports.csv) | Data Science Essentials |  |
 | Data Augmentation | [DataAugmentation/chopin.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/chopin.wav) | Data Science Essentials |  |
 | Data Augmentation | [DataAugmentation/chopin.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/chopin.wav) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/creditcard.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/creditcard.npy) | Data Science Essentials | https://www.kaggle.com/mlg-ulb/creditcardfraud |
-| Data Augmentation | [DataAugmentation/lion.png(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/lion.png) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/music.zip(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/music.zip) | Data Science Essentials | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
-| Data Augmentation | [DataAugmentation/restaurant-ambience.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/restaurant-ambience.wav) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/styles.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/styles.npy) | Data Science Essentials | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
+| Data Augmentation | [DataAugmentation/creditcard.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/creditcard.npy) | https://www.kaggle.com/mlg-ulb/creditcardfraud |
+| Data Augmentation | [DataAugmentation/lion.png](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/lion.png) |  |
+| Data Augmentation | [DataAugmentation/music.zip](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/music.zip) | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
+| Data Augmentation | [DataAugmentation/restaurant-ambience.wav](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/restaurant-ambience.wav) |  |
+| Data Augmentation | [DataAugmentation/styles.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/styles.npy) | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
 
 [Volume 1](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/Volume1.pdf)
 
@@ -130,12 +130,12 @@ Below the data files are listed by volume (in the order given by each table of c
 | [BreadthFirstSearch/movieData.txt](https://raw.githubusercontent.com/Foundations-of-Applied-Mathematics/Data/master//BreadthFirstSearch/movieData.txt) | Breadt-first Search | Volume 2 | Scraped with `imdbpy` (https://imdbpy.sourceforge.io/) |
 | [CVXOPT_Intro/ForestData.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//CVXOPT_Intro/ForestData.npy) | CVXOPT | Volume 2 |  |
 | [Conditioning_Stability/stability_data.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//Conditioning_Stability/stability_data.npy) | Conditioning and Stability | Volume 1 | Generated |
-| Data Augmentation | [DataAugmentation/chopin.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/chopin.wav) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/creditcard.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/creditcard.npy) | Data Science Essentials | https://www.kaggle.com/mlg-ulb/creditcardfraud |
-| Data Augmentation | [DataAugmentation/lion.png(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/lion.png) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/music.zip(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/music.zip) | Data Science Essentials | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
-| Data Augmentation | [DataAugmentation/restaurant-ambience.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/restaurant-ambience.wav) | Data Science Essentials |  |
-| Data Augmentation | [DataAugmentation/styles.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/styles.npy) | Data Science Essentials | U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.  |
+|[DataAugmentation/chopin.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/chopin.wav) | Data Augmentation | 
+|[DataAugmentation/creditcard.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/creditcard.npy) | Data Augmentation |
+|[DataAugmentation/lion.png(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/lion.png) | Data Augmentation |
+|[DataAugmentation/music.zip(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/music.zip) | Data Augmentation |
+|[DataAugmentation/restaurant-ambience.wav(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/restaurant-ambience.wav) | Data Augmentation|
+|[DataAugmentation/styles.npy(https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/DataAugmentation/styles.npy) | Data Augmentation |
 | [DataVisualization/anscombe.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//DataVisualization/anscombe.npy) | Data Visualization | Python Essentials | https://en.wikipedia.org/wiki/Anscombe's_quartet. Original citation: Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. JSTOR 2682899 |
 | [DataVisualization/MLB.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//DataVisualization/MLB.npy) | Data Visualization | Python Essentials | http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights (modified) |
 | [DataVisualization/earthquakes.npy](https://github.com/Foundations-of-Applied-Mathematics/Data/raw/master//DataVisualization/earthquakes.npy) | Data Visualization | Python Essentials | Gathered from https://earthquake.usgs.gov/earthquakes/search/ |
