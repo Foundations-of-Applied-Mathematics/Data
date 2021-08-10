@@ -1,5 +1,5 @@
 {
-    "NumpyIntro/grid.npy": "https://projecteuler.net/problem=11",
+    "PythonAndNumpy2/grid.npy": "https://projecteuler.net/problem=11",
     "MatplotlibIntro/FARS.npy": "Gathered from https://www.nhtsa.gov/FARS",
     "Exceptions_FileIO/hello_world.txt": "Written by hand",
     "Exceptions_FileIO/cf_example1.txt": "Written by hand",
@@ -40,6 +40,7 @@
     "SVD_ImageCompression/hubble.jpg": "https://www.nasa.gov/multimedia/imagegallery/image_feature_2099.html",
     "SVD_ImageCompression/hubble_gray.jpg": "Modification of `hubble.jpg`",
     "FacialRecognition/faces94.zip": "http://cswww.essex.ac.uk/mv/allfaces/faces94.html",
+    "NMF/faces94.zip": "http://cswww.essex.ac.uk/mv/allfaces/faces94.html",
     "Differentiation/plane.npy": "Generated",
     "Conditioning_Stability/stability_data.npy": "Generated",
     "PageRank/web_stanford.txt": "Subset of `web-Stanford.txt` from http://snap.stanford.edu/data/web-Stanford.html",
