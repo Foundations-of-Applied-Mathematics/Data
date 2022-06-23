@@ -16,6 +16,7 @@
     "SQL1/student_grades.csv": "Written by hand",
     "SQL1/us_earthquakes.csv": "",
     "SQL2/students.db": "Combined from `student_info.csv`, `student_grades.csv`, and the other tables in SQL 1",
+	"SQL2/mystery_database.db": "Gathered from https://starwars.fandom.com/",
     "WebTechnologies/nyc_traffic.json": "Modified from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, gathered August 2017",
     "WebScraping1/example.html": "https://www.example.com",
     "WebScraping1/san_diego_weather.html": "",
