@@ -83,7 +83,9 @@
     "GradientMethods/challenger.npy": "",
     "CVXOPT_Intro/ForestData.npy": "",
     "InteriorPoint_Linear/simdata.txt": "",
-    "InteriorPoint_Quadratic/portfolio.txt": ""
-    "InformationTheory/allowed_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data"
-    "InformationTheory/possible_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data"
+    "InteriorPoint_Quadratic/portfolio.txt": "",
+    "InformationTheory/allowed_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
+    "InformationTheory/possible_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
+	"GMM/problem7.npy": "Generated",
+	"GMM/classification.npz": "Generated",
    } 
