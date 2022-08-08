@@ -86,6 +86,8 @@
     "InteriorPoint_Quadratic/portfolio.txt": "",
     "InformationTheory/allowed_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
     "InformationTheory/possible_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
-	"GMM/problem7.npy": "Generated",
-	"GMM/classification.npz": "Generated",
+    "HMM/declaration.txt":"",
+    "HMM/WarAndPeace.txt":"",
+	  "GMM/problem7.npy": "Generated",
+	  "GMM/classification.npz": "Generated",
    } 
