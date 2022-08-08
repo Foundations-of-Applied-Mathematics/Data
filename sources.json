@@ -87,5 +87,7 @@
     "InformationTheory/allowed_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
     "InformationTheory/possible_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
     "HMM/declaration.txt":"",
-    "HMM/WarAndPeace.txt":""
+    "HMM/WarAndPeace.txt":"",
+	  "GMM/problem7.npy": "Generated",
+	  "GMM/classification.npz": "Generated",
    } 
