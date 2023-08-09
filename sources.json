@@ -88,8 +88,9 @@
     "InformationTheory/possible_words.txt": " https://github.com/3b1b/videos/tree/master/_2022/wordle/data",
     "HMM/declaration.txt":"",
     "HMM/WarAndPeace.txt":"",
-	  "GMM/problem7.npy": "Generated",
-	  "GMM/classification.npz": "Generated",
+	"HMM/stocks.npy": "Generated",
+	"GMM/problem7.npy": "Generated",
+	"GMM/classification.npz": "Generated",
 	"PoissonEquation/dr_jarvis.jpg": "Modified from https://math.byu.edu/?page_id=6413",
 	"PoissonEquation/mount_rushmore.jpg": "Obtained from https://en.wikipedia.org/wiki/File:Mount_Rushmore_detail_view_%28100MP%29.jpg, licence is CC BY-SA 3.0"
    } 
